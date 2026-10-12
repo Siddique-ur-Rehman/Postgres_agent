@@ -1,0 +1,6 @@
+
+langchain
+langchain-google-genai
+langchain-postgres
+psycopg[binary,pool]
+python-dotenv

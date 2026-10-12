@@ -1,0 +1,10 @@
+[project]
+name = "agent-lgch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "langgraph-checkpoint-postgres>=3.1.2",
+    "streamlit>=1.65.0",
+]
